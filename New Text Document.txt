@@ -1,0 +1,22 @@
+npm init -y
+
+npm i express dotenv mongoose jsonwebtoken jsonwebtoken stripe cloudinary  cookie-parser bcrypt ioredis
+
+ npm i nodemon -D
+
+
+182.190.201.76
+bilal317699_db_user
+zGYUy7wagyXf9Tx6
+
+
+mongodb+srv://bilal317699_db_user:zGYUy7wagyXf9Tx6@cluster0.rupuyhs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+ node .\backend\lib\redis.js
+
+======================
+
+
+npm i axios @stripe/stripe-js framer-motion lucide-react react-confetti react-hot toast react-router-dom recharts zustand
